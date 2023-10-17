@@ -35,7 +35,7 @@ public class App {
             ventesManquantes = QUOTA - nbVente; // Calcul du nombre de ventes manquants pour atteindre le quota de vente minimum pour toucher la prime
 
             // Affichages
-           System.out.println("Hello World !");
+            System.out.println("Hello World !"); // Commentaite bidon
             
             System.out.println("Malheuresement, vous n'avez pas remplie le quota de vente !");
             System.out.println("Votre salaire est de : " + salaireFinal + "€");
